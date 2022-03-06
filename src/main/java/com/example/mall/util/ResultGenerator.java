@@ -43,5 +43,5 @@ public class ResultGenerator {
         return new Result(code,message,data);
     }
 
-    //todo: Finish the video at 42:59. Please continue
+
 }
